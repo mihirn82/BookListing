@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookListing</string>
+
+    <string name="hint">Enter Keyword</string>
+    <string name="button">Search</string>
+
+    <!-- Text to display in the list when there are no books [CHAR LIMIT=NONE] -->
+    <string name="no_books">No books found.</string>
+
+    <!-- Text to display in the list when there is no internet [CHAR LIMIT=NONE] -->
+    <string name="no_internet">No internet connection.</string>
+
+    <!-- Text to display in the list for default empty list view [CHAR LIMIT=NONE] -->
+    <string name="enter_keyword">This is a Book Search App using Google Books API. Please enter a keyword to search a book.</string>
+</resources>
